@@ -4,7 +4,7 @@
 
  
 ## team
-Me and three developers are doing this project
+Me and three developers are creating this project
 
 ## dependencies
 Mui v5
